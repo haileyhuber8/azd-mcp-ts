@@ -1,5 +1,6 @@
 name: mcpserver
 metadata:
+  template: azd-mcp-ts
   subscription: ${AZURE_SUBSCRIPTION_ID}
   location: ${AZURE_LOCATION}
   resource_group: ${AZURE_RESOURCE_GROUP}
